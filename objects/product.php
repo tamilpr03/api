@@ -14,7 +14,7 @@ class Product{
     public $category_name;
     public $created;
  
-    // constructor with $db as database connection
+    // constructor with $db as database connection Tamil
     public function __construct($db){
         $this->conn = $db;
     }
